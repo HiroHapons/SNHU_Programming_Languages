@@ -1,0 +1,27 @@
+# Visual Studio Build Folders
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+
+# Visual Studio temporary files
+*.obj
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*.suo
+*.userossc
+*.sln.docstates
+*.tlog
+*.log
+
+# Executables
+*.exe
+*.dll
+
+# Hidden VS configuration
+.vs/
